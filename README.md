@@ -9,7 +9,6 @@
   </h3>
 
   <p>
-    <a href="https://scorecard.dev/viewer/?uri=github.com/NordSecurity/nordvpn-linux">
       <img src="https://api.scorecard.dev/projects/github.com/NordSecurity/nordvpn-linux/badge" alt="OpenSSF Scorecard" />
     </a>
   </p>
